@@ -1,0 +1,5 @@
+[redcap]
+api_url = https://your-redcap-url/api/
+project_token = 0123456789ABCDEF0123456789ABCDEF
+
+# Rename to `config.cfg` to implement
